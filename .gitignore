@@ -1,0 +1,11 @@
+# Allow only the showcase documents and screenshot assets.
+*
+!.gitignore
+!README.md
+!README.tr.md
+!images/
+images/*
+!images/*.png
+!images/*.jpg
+!images/*.jpeg
+!images/*.webp
